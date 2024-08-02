@@ -1,1 +1,1 @@
-Simple exercises for learning Python
+Simple projects for learning Python
